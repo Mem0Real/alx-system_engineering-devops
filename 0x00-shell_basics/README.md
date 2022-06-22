@@ -1,2 +1,2 @@
 #!/bin/bash
-Prints absolute path name of current working directory \n
+Perform various commands and execute the scripts using chmod u+x
