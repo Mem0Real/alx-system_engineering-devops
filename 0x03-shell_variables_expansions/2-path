@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PATH/action" | uniq
+export PATH="$PATH:/action"

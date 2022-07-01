@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((count($PATH)))"
+echo $PATH | tr -s ":" "\n" | wc -l
